@@ -9,7 +9,7 @@ https://medium.freecodecamp.org/how-to-deploy-a-nodejs-app-to-heroku-from-github
 
 We recommend every repository include a README, LICENSE, and .gitignore.
 
-…or create a new repository on the command line
+... or create a new repository on the command line
 echo "# MyCoolNodeApp" >> README.md
 git init
 git add README.md
